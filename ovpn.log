@@ -1,0 +1,37 @@
+===========================
+Mon Jan 29 19:57:57 UTC 2024
+
+vpngate.zip	https://raw.githubusercontent.com/thuhollow2/vpngate/main/vpngate.zip
+
+vpngate1
+
+freeopenvpn_KR_175.215.247.167_tcp_995.ovpn
+freeopenvpn_RU_46.147.246.56_tcp_1225.ovpn
+freeopenvpn_RU_46.147.246.56_udp_1195.ovpn
+ipspeed_BR_201.32.13.81_udp_1195.ovpn
+ipspeed_JP_119.169.142.56_udp_1643.ovpn
+ipspeed_JP_125.197.92.156_tcp_1714.ovpn
+ipspeed_JP_133.32.227.153_udp_4775.ovpn
+ipspeed_JP_219.100.37.212_tcp_443.ovpn
+ipspeed_TH_49.228.177.213_udp_1605.ovpn
+vpngate_JP_138.64.84.40_udp_44085.ovpn
+
+vpngate2
+
+freeopenvpn_KR_175.215.247.167_tcp_995.ovpn
+freeopenvpn_RU_46.147.246.56_tcp_1225.ovpn
+freeopenvpn_RU_46.147.246.56_udp_1195.ovpn
+ipspeed_JP_133.32.227.153_udp_4775.ovpn
+
+vpngate3
+
+freeopenvpn_KR_175.215.247.167_tcp_995.ovpn
+freeopenvpn_RU_46.147.246.56_tcp_1225.ovpn
+freeopenvpn_RU_46.147.246.56_udp_1195.ovpn
+
+vpngate4
+
+freeopenvpn_KR_175.215.247.167_tcp_995.ovpn
+
+vpngate5
+
